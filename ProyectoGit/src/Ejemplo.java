@@ -13,6 +13,8 @@ public class Ejemplo {
 		int suma;
 		int resta;
 		
+		int multiplicacion;
+		
 		char continuar='S';
 		
 //Para leer creamos el objeto teclado
