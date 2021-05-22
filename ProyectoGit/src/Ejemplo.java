@@ -41,7 +41,11 @@ public class Ejemplo {
 			
 			System.out.println("La suma es " + suma + " y la resta es " + resta);
 			
-
+//***MODIFICACIÓN*** Hallamos la multiplicación
+			
+			multiplicacion = n1 * n2 * n3;
+			
+			System.out.println("La multiplicacion total es " + multiplicacion);
 			
 			System.out.print("Quieres continuar?(S/N)");
 			continuar=teclado.next().charAt(0);
